@@ -1,0 +1,51 @@
+h1 {
+    font-size: ;
+    font-family: ;
+    padding: ;
+    margin: ;
+    font-weight: ;
+    text-decoration: ;
+    color: ;
+    background-color: ;
+}
+
+h2 {
+    font-size: ;
+    font-family: ;
+    padding: ;
+    margin: ;
+    font-weight: ;
+    color: ;
+    background-color: ;
+}
+
+p {
+    font-family:  ;
+    font-size: ;
+    padding: ;
+    margin: 20px;
+    color: ;
+    background-color: ;
+    font-weight: 600 ;
+}
+
+.logo {
+    position: absolute;
+    top: 0px; /* Adjusts the positioning as required */
+    right: -760px;
+    width: 50%; /* Optional: If you want the logo container to be 50% of its parent */
+}
+
+.logo img {
+    width: 200px; /* Shrinks the image to 20px width */
+    height: auto; /* Maintains the aspect ratio */
+}
+
+
+.story-box {
+    text-align: center;
+    margin-top: 87px;
+    border: 2px solid black;
+    /* padding: 15px 5px; Top/Bottom 15px, Left/Right 5px    */
+}
+
